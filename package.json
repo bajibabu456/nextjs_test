@@ -10,7 +10,6 @@
   "dependencies": {
     "next": "^11.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "nferx-core-ui": "git+ssh://git@github.com/lumenbiomics/nferx-core-ui.git#v3"
+    "react-dom": "17.0.2"
   }
 }
